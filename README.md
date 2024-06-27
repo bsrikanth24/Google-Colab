@@ -1,37 +1,21 @@
-**List of datasets along with descriptions**
+List of datasets along with descriptions
+Dataset: akcdogs.csv
+Description: Cleaned data on dog breeds scraped from akc.org (as at 17 Jan 2018)
+Variables: Breed , Trait1, Trait2, Trait3, Energy level, Size, Rank, Good with Children, Good with other Dogs, Shedding, Grooming, Trainability, Height, Weight, Life expectancy, Barking level, Group
+Mode of data collection: Web scraping
+Source: American Kennel Club
 
-**Dataset**: akcdogs.csv
+Dataset: arrivals2018.csv
+Description: Top 20 cities based on 2017 arrivals and 2018 estimates
+Variables: rank , city, country, arrivals_2017 (actual arrival count for 2017), arrivals_2018 (estimated arrival count for 2018)
+Mode of data collection: Web scraping
+Source: Most visited: World's top cities for tourism
 
-**Description**: Cleaned data on dog breeds scraped from akc.org (as at 17 Jan 2018)
-
-**Variables**: Breed , Trait1, Trait2, Trait3, Energy level, Size, Rank, Good with Children, Good with other Dogs, Shedding, Grooming, Trainability, Height, Weight, Life expectancy, Barking level, Group
-
-**Mode of data collection**: Web scraping
-
-**Source**: American Kennel Club
-
-
-**Dataset**: arrivals2018.csv
-
-**Description**: Top 20 cities based on 2017 arrivals and 2018 estimates
-
-**Variables**: rank , city, country, arrivals_2017 (actual arrival count for 2017), arrivals_2018 (estimated arrival count for 2018)
-
-**Mode of data collection**: Web scraping
-
-**Source**: Most visited: World's top cities for tourism
-
-
-**Dataset**: bookdepo.csv
-
-**Description**: Raw data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)
-
-**Variables**: (blank) (row index number) , name (book title), material (book material), author (author), rank (bestsellers rank), maincat (main category), subcat (sub category), rating (rating by readers), ratingcount (number of readers who gave ratings), saleprice (discounted price in S$), listprice (original price in S$), numofpages (number of pages), datepub (date published), isbn13 (ISBN13 number)
-
-**Mode of data collection**: Web scraping
-
-**Source**: Book Depository
-
+Dataset: bookdepo.csv
+Description: Raw data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)
+Variables: (blank) (row index number) , name (book title), material (book material), author (author), rank (bestsellers rank), maincat (main category), subcat (sub category), rating (rating by readers), ratingcount (number of readers who gave ratings), saleprice (discounted price in S$), listprice (original price in S$), numofpages (number of pages), datepub (date published), isbn13 (ISBN13 number)
+Mode of data collection: Web scraping
+Source: Book Depository
 
 Dataset: bookdepobest.csv
 Description: Cleaned data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)
