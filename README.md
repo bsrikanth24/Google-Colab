@@ -3,8 +3,11 @@
 **Dataset**: akcdogs.csv
 
 **Description**: Cleaned data on dog breeds scraped from akc.org (as at 17 Jan 2018)
+
 **Variables**: Breed , Trait1, Trait2, Trait3, Energy level, Size, Rank, Good with Children, Good with other Dogs, Shedding, Grooming, Trainability, Height, Weight, Life expectancy, Barking level, Group
+
 **Mode of data collection**: Web scraping
+
 **Source**: American Kennel Club
 
 Dataset: arrivals2018.csv
