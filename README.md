@@ -10,17 +10,26 @@
 
 **Source**: American Kennel Club
 
-*Dataset: arrivals2018.csv
-*Description: Top 20 cities based on 2017 arrivals and 2018 estimates
-*Variables: rank , city, country, arrivals_2017 (actual arrival count for 2017), arrivals_2018 (estimated arrival count for 2018)
-*Mode of data collection: Web scraping
-*Source: Most visited: World's top cities for tourism
+**Dataset**: arrivals2018.csv
 
-Dataset: bookdepo.csv
-Description: Raw data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)
-Variables: (blank) (row index number) , name (book title), material (book material), author (author), rank (bestsellers rank), maincat (main category), subcat (sub category), rating (rating by readers), ratingcount (number of readers who gave ratings), saleprice (discounted price in S$), listprice (original price in S$), numofpages (number of pages), datepub (date published), isbn13 (ISBN13 number)
-Mode of data collection: Web scraping
-Source: Book Depository
+**Description**: Top 20 cities based on 2017 arrivals and 2018 estimates
+
+**Variables**: rank , city, country, arrivals_2017 (actual arrival count for 2017), arrivals_2018 (estimated arrival count for 2018)
+
+**Mode of data collection**: Web scraping
+
+**Source**: Most visited: World's top cities for tourism
+
+**Dataset**: bookdepo.csv
+
+**Description**: Raw data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)
+
+**Variables**: (blank) (row index number) , name (book title), material (book material), author (author), rank (bestsellers rank), maincat (main category), subcat (sub category), rating (rating by readers), ratingcount (number of readers who gave ratings), saleprice (discounted price in S$), listprice (original price in S$), numofpages (number of pages), datepub (date published), isbn13 (ISBN13 number)
+
+**Mode of data collection**: Web scraping
+
+**Source**: Book Depository
+
 
 Dataset: bookdepobest.csv
 Description: Cleaned data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)
