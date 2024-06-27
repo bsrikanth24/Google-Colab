@@ -10,6 +10,7 @@
 
 **Source**: American Kennel Club
 
+
 **Dataset**: arrivals2018.csv
 
 **Description**: Top 20 cities based on 2017 arrivals and 2018 estimates
@@ -19,6 +20,7 @@
 **Mode of data collection**: Web scraping
 
 **Source**: Most visited: World's top cities for tourism
+
 
 **Dataset**: bookdepo.csv
 
